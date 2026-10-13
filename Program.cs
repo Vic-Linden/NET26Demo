@@ -7,6 +7,7 @@ namespace HelloDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Victoria!");
+            Console.WriteLine("Hello, Svea!");
         }
     }
 }
